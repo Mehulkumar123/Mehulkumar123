@@ -45,11 +45,9 @@ Coding is like solving a puzzle while riding a unicycle and juggling flaming tor
 - 💬 Drop into my GitHub issues to roast my code or suggest we cry over bugs together.
 - 🌟 Let’s unite in the beginner coder struggle—mistakes are just spicy learning opportunities!
 
-![Team Chaos](https://media.giphy.com/media/3o7TKtnuHOH5k8t6t2/giphy.gif)
 
 *"Code like nobody’s watching, debug like it’s live on Twitch."*\
 — Me, probably, while spilling energy drink on my keyboard.
 
 Thanks for visiting my GitHub! Keep it 💯, and may your loops never be infinite. 😎🚀
 
-![Victory Dance](https://media.giphy.com/media/3o7TKsQ8j78g3z0j8I/giphy.gif)
